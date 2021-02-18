@@ -1,0 +1,6 @@
+module Pods_reprod_reprodTests {
+  umbrella header "Pods-reprod-reprodTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
